@@ -9,8 +9,6 @@ elif action == "-":
   print(num1 - num2)
 elif action == "*":
   print(num1 * num2)
-
-
 elif action == "/":
   if num2 == 0:
     print("Ділення на нуль!")
